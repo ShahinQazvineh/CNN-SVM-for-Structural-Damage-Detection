@@ -1,0 +1,1 @@
+# CNN-SVM-for-Structural-Damage-Detection
