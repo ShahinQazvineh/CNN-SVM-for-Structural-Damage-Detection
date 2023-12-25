@@ -29,6 +29,7 @@ The model is fit to the training data. The model is then used to make prediction
 
 # Additional Resources
 In case you found this architecture useful for your research, please consider citing our book chapter as follows:
+
 Ghazvineh S, Nouri G, Hosseini Lavasani S, Gharehbaghi V, Noroozinejad Farsangi E, Noori M. 7 Vibration-based damage detection using a novel hybrid CNN-SVM approach. In: Noori M, Yuan F, Farsangi E (ed.) Data-Centric Structural Health Monitoring: Mechanical, Aerospace and Complex Infrastructure Systems. Berlin, Boston: De Gruyter; 2023. p.137-158. **https://doi.org/10.1515/9783110791426-007**
 
 If you have any questions or need further assistance, please open an issue in this repository.
