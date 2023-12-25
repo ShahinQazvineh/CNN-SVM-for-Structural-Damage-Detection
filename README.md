@@ -28,7 +28,7 @@ The data_reader function is responsible for loading the data that will be used t
 The model is fit to the training data. The model is then used to make predictions on the test and the training data. The performance of the model is evaluated based on accuracy, f1 score, recall, precision, and roc_auc_score.
 
 # Additional Resources
-In case you found this architecture useful for your research, please consider citing our book chapter as follows:
+In case you found this architecture useful for your research, please consider citing our book chapter as follows:  
 
 Ghazvineh S, Nouri G, Hosseini Lavasani S, Gharehbaghi V, Noroozinejad Farsangi E, Noori M. 7 Vibration-based damage detection using a novel hybrid CNN-SVM approach. In: Noori M, Yuan F, Farsangi E (ed.) Data-Centric Structural Health Monitoring: Mechanical, Aerospace and Complex Infrastructure Systems. Berlin, Boston: De Gruyter; 2023. p.137-158. **https://doi.org/10.1515/9783110791426-007**
 
